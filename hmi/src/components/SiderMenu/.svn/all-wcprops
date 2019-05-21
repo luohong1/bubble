@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/SiderMenu
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/SiderMenu/index.js
+END
+SiderMenu.test.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/SiderMenu/SiderMenu.test.js
+END
+SiderMenu.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/SiderMenu/SiderMenu.js
+END
+SiderMenuUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/SiderMenu/SiderMenuUtils.js
+END
+BaseMenu.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/SiderMenu/BaseMenu.js
+END
+index.less
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/SiderMenu/index.less
+END

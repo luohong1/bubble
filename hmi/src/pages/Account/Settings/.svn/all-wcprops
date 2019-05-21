@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings
+END
+PhoneView.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/PhoneView.js
+END
+BaseView.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/BaseView.js
+END
+BindingView.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/BindingView.js
+END
+Info.less
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/Info.less
+END
+Info.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/Info.js
+END
+GeographicView.less
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/GeographicView.less
+END
+PhoneView.less
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/PhoneView.less
+END
+BaseView.less
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/BaseView.less
+END
+NotificationView.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/NotificationView.js
+END
+SecurityView.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/SecurityView.js
+END
+GeographicView.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bubble/!svn/ver/5/src/model/hmi/src/pages/Account/Settings/GeographicView.js
+END

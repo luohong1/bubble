@@ -1,0 +1,43 @@
+package ${package.ServiceImpl};
+
+import com.baomidou.mybatisplus.mapper.EntityWrapper;
+import com.baomidou.mybatisplus.plugins.Page;
+import com.github.pagehelper.PageHelper;
+import com.github.pagehelper.PageInfo;
+import org.springframework.stereotype.Service;
+import org.springframework.util.StringUtils;
+import org.springframework.stereotype.Service;
+import org.goshow.base.dto.QueryParam;
+import ${package.Entity}.${entity};
+import ${package.Mapper}.${table.mapperName};
+import ${package.Service}.${table.serviceName};
+import ${superServiceImplClassPackage};
+
+/**
+ * <p>
+ * ${table.comment} 服务实现类
+ * </p>
+ *
+ * @author ${author}
+ * @since ${date}
+ */
+@Service("${table.serviceName.substring(0, 1).toLowerCase()}${table.serviceName.substring(1)}")
+public class ${table.serviceImplName} extends ${superServiceImplClass}<${table.mapperName}, ${entity}> implements ${table.serviceName} {
+
+    @Override
+    public PageInfo<${entity}> listPage(Page page, QueryParam queryParam) {
+        PageHelper.startPage(page.getCurrent(), page.getSize());
+        EntityWrapper<${entity}> ew = new EntityWrapper<>();
+        if(StringUtils.hasText(queryParam.getField())){
+        ew.eq(queryParam.getField(),queryParam.getKeyword());
+        }
+        if(StringUtils.hasText(queryParam.getSortField())){
+        if(StringUtils.hasText(queryParam.getSortOrder())&&queryParam.getSortOrder().equals("descend")) {
+        ew.orderBy(queryParam.getSortField(), false);
+        }else{
+        ew.orderBy(queryParam.getSortField());
+        }
+        }
+        return new PageInfo<>(this.baseMapper.selectList(ew));
+    }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.bubble.mapper.SysUserMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="org.bubble.domain.SysUser">
+		<id column="ID" property="id" />
+		<result column="CREATE_TIME" property="createTime" />
+		<result column="VERSION" property="version" />
+		<result column="USER_CODE" property="userCode" />
+		<result column="USER_NAME" property="userName" />
+		<result column="USER_PWD" property="userPwd" />
+		<result column="USER_TYPE" property="userType" />
+		<result column="STATUS" property="status" />
+		<result column="PWD_ERROR_TIME" property="pwdErrorTime" />
+		<result column="PWD_ERROR_COUNT" property="pwdErrorCount" />
+		<result column="LAST_LOGIN_TIME" property="lastLoginTime" />
+	</resultMap>
+
+	<sql id="all_colnums">
+		ID,CREATE_TIME,VERSION,USER_CODE,USER_NAME,USER_PWD,USER_TYPE,STATUS,PWD_ERROR_TIME,PWD_ERROR_COUNT,LAST_LOGIN_TIME
+	</sql>
+
+	<select id="getAllAdministrator" resultType="org.bubble.domain.SysUser" resultMap="BaseResultMap">
+		SELECT
+			<include refid="all_colnums"/>
+		 FROM sys_user
+	</select>
+
+	<select id="getUserByCode" resultType="org.bubble.domain.SysUser" resultMap="BaseResultMap">
+		SELECT
+			<include refid="all_colnums"/>
+		 FROM sys_user WHERE USER_CODE=#{userCode}
+	</select>
+
+</mapper>

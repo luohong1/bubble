@@ -1,0 +1,20 @@
+package ${package.Service};
+
+import com.baomidou.mybatisplus.plugins.Page;
+import com.github.pagehelper.PageInfo;
+import org.goshow.base.dto.QueryParam;
+import ${package.Entity}.${entity};
+import ${superServiceClassPackage};
+
+/**
+ * <p>
+ * ${table.comment} 服务类
+ * </p>
+ *
+ * @author ${author}
+ * @since ${date}
+ */
+public interface ${table.serviceName} extends ${superServiceClass}<${entity}> {
+
+   PageInfo<${entity}> listPage(Page page, QueryParam queryParam);
+}

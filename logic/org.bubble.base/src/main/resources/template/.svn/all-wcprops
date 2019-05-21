@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/resources/template
+END
+service.java.vm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/resources/template/service.java.vm
+END
+serviceImpl.java.vm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/resources/template/serviceImpl.java.vm
+END
+controller.java.vm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/resources/template/controller.java.vm
+END

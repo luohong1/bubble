@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bubble/!svn/ver/5/src/model/hmi/scripts
+END
+generateMock.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bubble/!svn/ver/5/src/model/hmi/scripts/generateMock.js
+END
+prettier.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bubble/!svn/ver/5/src/model/hmi/scripts/prettier.js
+END
+lint-prettier.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bubble/!svn/ver/5/src/model/hmi/scripts/lint-prettier.js
+END

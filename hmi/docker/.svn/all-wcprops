@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/bubble/!svn/ver/5/src/model/hmi/docker
+END
+docker-compose.dev.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bubble/!svn/ver/5/src/model/hmi/docker/docker-compose.dev.yml
+END
+nginx.conf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bubble/!svn/ver/5/src/model/hmi/docker/nginx.conf
+END
+docker-compose.yml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bubble/!svn/ver/5/src/model/hmi/docker/docker-compose.yml
+END

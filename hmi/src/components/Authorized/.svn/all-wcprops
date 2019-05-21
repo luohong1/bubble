@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized
+END
+CheckPermissions.test.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/CheckPermissions.test.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/index.js
+END
+AuthorizedRoute.d.ts
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/AuthorizedRoute.d.ts
+END
+CheckPermissions.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/CheckPermissions.js
+END
+Secured.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/Secured.js
+END
+renderAuthorize.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/renderAuthorize.js
+END
+index.md
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/index.md
+END
+AuthorizedRoute.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/AuthorizedRoute.js
+END
+Authorized.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/Authorized.js
+END
+PromiseRender.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/PromiseRender.js
+END
+index.d.ts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bubble/!svn/ver/5/src/model/hmi/src/components/Authorized/index.d.ts
+END

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="org.bubble.web:war">
+    <output-path>$PROJECT_DIR$/org.bubble.web/target</output-path>
+    <root id="archive" name="org.bubble.web.war">
+      <element id="artifact" artifact-name="org.bubble.web:war exploded" />
+    </root>
+  </artifact>
+</component>

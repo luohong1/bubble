@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.service/src/main/resources/spring
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.service/src/main/resources/spring/applicationContext.xml
+END
+applicationContext-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.service/src/main/resources/spring/applicationContext-dao.xml
+END
+applicationContext-dubbo-provider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.service/src/main/resources/spring/applicationContext-dubbo-provider.xml
+END
+applicationContext-redis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.service/src/main/resources/spring/applicationContext-redis.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/java/org/bubble/base/http
+END
+HttpStatusInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/java/org/bubble/base/http/HttpStatusInfo.java
+END
+DataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/java/org/bubble/base/http/DataSet.java
+END
+HttpEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/java/org/bubble/base/http/HttpEntity.java
+END

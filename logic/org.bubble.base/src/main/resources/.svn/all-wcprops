@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/resources
+END
+common.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/resources/common.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/resources/log4j.properties
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bubble/!svn/ver/3/src/model/logic/org.bubble.base/src/main/resources/jdbc.properties
+END
